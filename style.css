@@ -3,14 +3,14 @@ body {
 }
 
 h1 {
-	height: 200px;
+	height: 100px;
 	width: 100%;
 	background: linear-gradient(lightblue, lightgreen);
 	border-radius: 10px;
 	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
-#top {
+.text {
 	background: beige;
 	border-radius: 10px;
 	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
